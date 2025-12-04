@@ -1,4 +1,4 @@
-_This repo was forked and is maintained by the [Public Environmental Data Partners](https://screening-tools.com/) as part of federal archival._
+_This repo was forked for archival purposes by the [Public Environmental Data Partners](https://screening-tools.com/)._
 
 # CompTox-Chemistry-Dashboard-Abstract-Sifter
 
